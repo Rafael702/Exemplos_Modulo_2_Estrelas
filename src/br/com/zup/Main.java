@@ -1,3 +1,4 @@
+
 //Formatações
 package br.com.zup;
 
@@ -16,9 +17,10 @@ public class Main {
         n = ler.nextInt(); // 3.1 entrada de dados (lendo um valor inteiro)
 
         System.out.printf("\n" + "--Resultado--+\n");
-        for (i=1; i<=10; i++) {
-            System.out.printf("| %2d * %d = %2d |\n", i, n, (i*n));
+        for (i = 1; i <= 10; i++) {
+            System.out.printf("| %2d * %d = %2d |\n", i, n, (i * n));
         }
         System.out.printf("+-------------+\n");
+
     }
 }

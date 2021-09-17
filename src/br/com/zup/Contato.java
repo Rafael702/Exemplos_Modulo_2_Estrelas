@@ -6,6 +6,10 @@ public class Contato {
     String cpf;
     String email;
 
+    public Contato(){
+
+    }
+
     public Contato(String nome){
         this.nome = nome;
     }

@@ -1,4 +1,4 @@
-package br.com.zup.exemploanimal;
+package br.com.zup.exemploclasses.exemploanimal;
 
 public class Main {
     public static void main(String[] args) {

@@ -14,4 +14,9 @@ public class Contato {
         this.email = email;
         this.idade = idade;
     }
+
+    @Override
+    public String toString(){
+        return this.nome + this.email + this.telefone + this.idade;
+    }
 }

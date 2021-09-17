@@ -5,4 +5,8 @@ public class Contato {
     String telefone;
     String cpf;
     String email;
+
+    public Contato(String nome){
+        this.nome = nome;
+    }
 }

@@ -1,4 +1,4 @@
-package br.com.zup.exemploclasses.exemplopessoa;
+package br.com.zup.exemplos.exemploclasses.exemplopessoa;
 
 public class Contato {
     String nome;

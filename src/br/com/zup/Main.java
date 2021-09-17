@@ -11,7 +11,5 @@ public class Main {
         System.out.println(objeto_contato.email);
         System.out.println(objeto_contato.cpf);
         System.out.println(objeto_contato.idade);
-
-
     }
 }
